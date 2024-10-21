@@ -1,0 +1,2 @@
+# estudando_rag
+ RAG(RETRIEVAL-AUGMENTED GENERATION)
