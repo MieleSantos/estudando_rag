@@ -1,3 +1,7 @@
+"""
+dados ficam em memoria
+"""
+
 import os
 from langchain import hub
 from langchain_core.runnables import RunnablePassthrough
